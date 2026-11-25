@@ -2,7 +2,7 @@
 
 Estudiante de segundo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Medac Nova (Davante), en Málaga. Me gusta programar en Java y Kotlin y, sobre todo, diseñar bases de datos relacionales con SQL. Antes de la programación trabajé de cara al público, y de ahí me traje el trabajo en equipo y saber resolver problemas con prisa.
 
-🌐 **[Visita mi portfolio →](https://seymuswillemsgabriel.github.io/seymuswillemsgabriel/)**
+🌐 **[Visita mi portfolio →](https://seymuswillemsgabriel.github.io/portfolio/)**
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -30,6 +30,7 @@ Estudiante de segundo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en
 
 ## 🚀 Proyectos
 
+- **[Portfolio personal](https://github.com/seymuswillemsgabriel/portfolio)** — Mi web de portfolio, hecha con HTML, CSS y JavaScript y publicada con GitHub Pages.
 - **Juego para Android** — Un juego pequeño que estoy desarrollando con Kotlin en Android Studio. *(en desarrollo)*
 - **Proyecto intermodular** — El proyecto intermodular del ciclo: una aplicación Android hecha con Kotlin en Android Studio. *(próximamente)*
 
