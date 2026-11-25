@@ -2,8 +2,6 @@
 
 Estudiante de segundo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Medac Nova (Davante), en Málaga. Me gusta programar en Java y Kotlin y, sobre todo, diseñar bases de datos relacionales con SQL. Antes de la programación trabajé de cara al público, y de ahí me traje el trabajo en equipo y saber resolver problemas con prisa.
 
-🌐 **[Visita mi portfolio →](https://seymuswillemsgabriel.github.io/portfolio/)**
-
 ## 🛠️ Tecnologías y herramientas
 
 ### Backend y lenguajes
