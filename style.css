@@ -261,6 +261,16 @@ h3 {
   margin: 0.5rem 0 0.75rem;
 }
 
+.proyecto-estado {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  color: var(--acento);
+  border: 1px solid var(--acento);
+  border-radius: 3px;
+  padding: 0.05rem 0.5rem;
+}
+
 /* Formación */
 .formacion {
   margin: 0;
