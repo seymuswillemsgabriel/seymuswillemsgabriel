@@ -196,25 +196,23 @@ h3 {
 /* Tecnologías */
 .rejilla-tec {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 1.5rem;
 }
 
-.lista-tec {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  font-family: var(--mono);
-  font-size: 0.95rem;
+.rejilla-tec h3 {
+  margin-bottom: 0.6rem;
 }
 
-.lista-tec li {
-  padding: 0.15rem 0;
+.insignias {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
 }
 
-.lista-tec li::before {
-  content: "› ";
-  color: var(--acento);
+.insignias img {
+  display: block;
+  height: 28px;
+  border-radius: 3px;
 }
 
 .nota {
