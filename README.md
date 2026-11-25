@@ -30,5 +30,5 @@ Estudiante de segundo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en
 
 ## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/Email-seymuswilemsgabriel%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:seymuswilemsgabriel@gmail.com)
+[![Email](https://img.shields.io/badge/Email-seymuswillemsgabriel%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:seymuswillemsgabriel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--seymus--willems-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-seymus-willems/)
