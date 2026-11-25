@@ -30,9 +30,8 @@ Estudiante de segundo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en
 
 ## 🚀 Proyectos
 
-- **[Nombre del proyecto](enlace)** — Qué hace, en una frase.
-- **[Nombre del proyecto](enlace)** — Qué hace, en una frase.
-- **[Nombre del proyecto](enlace)** — Qué hace, en una frase.
+- **Juego para Android** — Un juego pequeño que estoy desarrollando con Kotlin en Android Studio. *(en desarrollo)*
+- **Proyecto intermodular** — El proyecto intermodular del ciclo: una aplicación Android hecha con Kotlin en Android Studio. *(próximamente)*
 
 ## 🎓 Formación
 
